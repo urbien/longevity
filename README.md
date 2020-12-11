@@ -1,4 +1,4 @@
-## COVID-19 vaccines brought longevity field 10 years into the future
+## A decade forward into the future to cure aging, thanks to COVID
 RNA-based COVID vaccines that have just come to market, are artificially made Exosomes. That means we have the at-scale production capacity to vaccinate people from aging. 
 
 What remains is to figure out which specific RNA segments to produce. And specific placenta cells (MSC) already give us a sample of Exosomes to study. MSC Exosomes show non-clinical anecdotal results that are akin to a fountain of youth. 
@@ -28,9 +28,52 @@ Ability to produce Exosomes artificially and at scale, newfound with COVID-19 va
 
 I know of 2 labs that already breed Exosomes. They take the Exosomes from the specific placenta cells (MSC) that direct other cells in the early stages of life. These Exosomes can be bread and injected into the bloodstream to act as the fountain of youth for our organs. Well, now we do not need placenta cells, we can produce Exosomes 100% artificially, like we just did with COVID vaccines. No ethical issues, no human tissues. Easier FDA approval.
 
-This is the end of disease and perhaps the aging itself.
-
-## What remains to do
 What we do not yet know is which specific Exosomes do what. We need to study what specific Exosomes are excreeted by MSC and study effects of each. 
 
+But once we do, this is the end of disease of aging and perhaps of aging itself.
+
+## What remains to do and how IT can help?
 Information technology is essential to here to help speed up the research, the clinical trials and the FDA approval management process, perhaps by 3-5 years. 
+
+1. This is a highly regulated field. To speed up the process we need to digitize and enforces compliance protocols. 
+1. There is an enormous amount of data that needs Data Governance. 
+1. Healthcare has challenging data privacy laws.
+1. AI is critical accelerator but sourcing data remains a huge challenge, due to privacy issues. If there was a way for AI to process health data, without asking people to give their data away - this could be the key enabler for research,  trials and clinical monitoring applications.
+1. Clinical trials are expensive (3 stages cost upwards of $50M). Trial often fails and all starts anew. IT creates automation, which decreases costs.
+1. Trials require identification, screening and monitoring of candidates.
+1. Trials require identification, screening and monitoring of participating organizations and processes.
+1. Trials require auditable transactional structured messaging with participants, both subjects and staff.
+1. Trials require workflow for participants and staff.
+
+## Breakthroughs
+Measure true bio age - this is fundamental for a scientific method to work. Until now we could not measure the effectiveness of diet, fasting, supplements, exercise, hot-cold showers, lower doses of stress, and of course the clinical.
+https://en.wikipedia.org/wiki/Epigenetic_clock
+
+1. Replace 50% blood plasma w/ saline - https://www.aging-us.com/article/103418/text
+
+1. Inject young plasma factors - https://www.biorxiv.org/content/10.1101/2020.05.07.082917v1
+
+1. Thymus (immunity) regeneration - https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13028
+
+1. Hypothalamus stem cell exosomes, a master control of aging?
+https://www.nature.com/articles/nature23282
+
+1. Rejuvenation with placenta stem cell exosomes: https://www.hindawi.com/journals/sci/2017/6305295/
+
+1. Epigenetic reprogramming
+https://www.nature.com/articles/s41586-020-2975-4
+https://www.biorxiv.org/content/10.1101/710210v1
+Key research organization
+https://www.sens.org/ launched this field initially with the help of $1M a year pledge from Peter Thiel. Now even crypto wealth is going into it.
+
+## Publications
+
+Life Extension event early Dec 2020, with recorded presentations by leading researchers in longevity field:
+https://www.youtube.com/channel/UCofPTsvqicfVFYifwB3_XhQ
+
+## VCs
+Healthspan extension / Anti-Ageing / Longevity field is projected to become a trillion dollar industry,  and it recently experienced a number of breakthroughs. See emerging specilist investors in this field:
+
+- https://www.longevity.vc
+- https://lvf.vc
+- https://www.methuselahfund.com/
