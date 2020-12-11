@@ -1,6 +1,4 @@
-# longevity
-
-## COVID-19 vaccines speed up longevity field by 10 years
+## COVID-19 vaccines accelerated longevity field by 10 years
 RNA-based COVID vaccines that have just come to market, are artificially made Exosomes. That means we have the at-scale production capacity to vaccinate people from aging. 
 
 What remains is to figure out which specific RNA segments to produce. And specific placenta cells (MSC) already give us a sample of Exosomes to study. MSC Exosomes show non-clinical anecdotal results that are akin to a fountain of youth. 
