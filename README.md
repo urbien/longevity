@@ -49,26 +49,23 @@ Information technology is essential to here to help speed up the research, the 
 Measure true bio age - this is fundamental for a scientific method to work. Until now we could not measure the effectiveness of diet, fasting, supplements, exercise, hot-cold showers, lower doses of stress, and of course the clinical.
 https://en.wikipedia.org/wiki/Epigenetic_clock
 
-1. Replace 50% blood plasma w/ saline - https://www.aging-us.com/article/103418/text
+1. [Replace 50% of blood plasma with saline solution](https://www.aging-us.com/article/103418/text). This procedure is already approved by FDA for rare immune deceases. 
 
-1. Inject young plasma factors - https://www.biorxiv.org/content/10.1101/2020.05.07.082917v1
+1. [Inject young plasma factors](https://www.biorxiv.org/content/10.1101/2020.05.07.082917v1). This has been the subject of much hype, but perhaps we finally see the light at the end of the tunnel.
 
-1. Thymus (immunity) regeneration - https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13028
+1. [Thymus (immunity) regeneration](https://onlinelibrary.wiley.com/doi/full/10.1111/acel.13028). The early clinical study that lasted 1 year has turned the age of 9 aged man back 2.5 years (1.5 year gain). Interestingly the rate of recovery from aging accelerated 3 times in the last 3 months).
 
-1. Hypothalamus stem cell exosomes, a master control of aging?
-https://www.nature.com/articles/nature23282
+1. [Hypothalamus stem cell exosomes, a master control of aging?](https://www.nature.com/articles/nature23282). These stem cells singal other cells to keep going, but they deplete with age.
 
-1. Rejuvenation with placenta stem cell exosomes: https://www.hindawi.com/journals/sci/2017/6305295/
+1. [Rejuvenation with placenta stem cell exosomes](https://www.hindawi.com/journals/sci/2017/6305295/). Special cells (MSC) produce singals for featus tissues to form, grow and repair, if injured (fetus exibits magic pawers of some salamandras that regrow organs on injuries)
 
-1. Epigenetic reprogramming
-https://www.nature.com/articles/s41586-020-2975-4
-https://www.biorxiv.org/content/10.1101/710210v1
-Key research organization
-https://www.sens.org/ launched this field initially with the help of $1M a year pledge from Peter Thiel. Now even crypto wealth is going into it.
+1. [Epigenetic reprogramming](https://www.nature.com/articles/s41586-020-2975-4). This is the ultimate solution, perhaps. Rsearchers found a way to tell the cells of the [blind mice to regrow](https://www.biorxiv.org/content/10.1101/710210v1). The experiment was with blindness because FDA already approved the same virus-based delivery method for its cure. But the mechanism is generic - it can turn any cell young again.
+
+## SENS research brought us 25 years forward in anti-aging
+[SENS](https://www.sens.org/ ) launched this field, initially with the help of $1M a year pledge from Peter Thiel. Now even [crypto wealth is going into it](https://qz.com/1212040/crypto-millionaires-like-vitalik-buterin-are-funding-research-to-reverse-aging-especially-the-sens-research-foundation/.
 
 ## Publications
-
-Life Extension event early Dec 2020, with recorded presentations by leading researchers in longevity field:
+Life Extension event in early Dec 2020, with recorded presentations by leading researchers in longevity field:
 https://www.youtube.com/channel/UCofPTsvqicfVFYifwB3_XhQ
 
 ## VCs
