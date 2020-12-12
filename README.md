@@ -14,8 +14,8 @@ The right IT platform can accelerate this process by 5 years.
 
 ## Background on RNA-based vaccines
 
-## Now a bit more technical
-We are made of proteins. 
+## COVID vaccines tell cells to produce certain protein
+We are all made of proteins. 
 It is a common knowledge that DNA is the source of programming for our body, specifically the instructions to produce proteins. In principle the body manifacturing process consists of just 2 steps:
 
 - A copy of the section of the DNA is made (in the nucleaus of the cell).
