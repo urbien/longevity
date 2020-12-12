@@ -21,7 +21,7 @@ It is a common knowledge that DNA is the source of programming for our body, spe
 
 It is unteresting that the cell is dumb and does not know where the RNA has came from. It can come from its own nucleus, from the virus, or from the RNA-based vaccine. Cell sees the RNA and starts producing proteins, dummy :-)
 
-This is how viruses make us sick. They use our own mechanism to trick the cell to produce the proteins that we do not need. Virus is just a bubble with the RNA and it is so small that it can sneak into the cell without a problem. Note that many other things can't pass through the cell membrane, and it is a problem of the drug delivery mechanism, which gives Pharma so much headache. Not an issue with RNA. No issue with body rejecting the RNA either. It is like taking over the line from the ground control.
+This is how viruses make us sick. They use our own mechanism to trick the cell to produce the proteins that we do not need. Virus is just a bubble with the RNA and it is so small that it can sneak into the cell without a problem. Note that many other things can't pass through the cell membrane, and it is a problem of the drug delivery mechanism, which gives Pharma so much headache. Not an issue with the RNA. There is also no issue with the body rejecting the RNA either, and viruses use this to their advantage. It is like taking over the line from the ground control.
 
 >RNA is easily destroyed (by enzymes) before it gets into the right place in the cell. So vaccine developers put RNA in the bubble to protect it until it gets to the right place in the cell, to the cell factories that produce proteins based on RNA instructions (ribosomes). 
 
