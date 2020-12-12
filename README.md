@@ -31,7 +31,7 @@ Ability to produce instructions, packaged in delivery bubbles (Exosomes) artific
 
 I know of 2 labs that already breed Exosomes in the US. They take the Exosomes from the specific placenta cells (MSC) that direct other cells in the early stages of life. These Exosomes can be multiplied and then injected into the bloodstream to act as the fountain of youth for our organs. Well, now with COVID vaccines advances, we do not need the placenta cells, we can produce Exosomes 100% artificially. No ethical issues, no human tissue, easier FDA approval.
 
-What we do not yet know is what specific Exosomes to produce. We need to study the Exosomes excreeted by MSC and study effects of each.
+What we do not yet know is what specific Exosomes to manufacture. We need to study the Exosomes excreeted by MSC and Hypothalamus stem cells.
 
 But once we do, this is the end of the disease of aging and perhaps of aging itself.
 
