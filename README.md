@@ -66,11 +66,10 @@ Information technology is essential to here to help speed up the research, the 
 1. [Epigenetic reprogramming](https://www.nature.com/articles/s41586-020-2975-4). This is the ultimate solution, perhaps. Rsearchers found a way to tell the cells of the [blind mice to regrow](https://www.biorxiv.org/content/10.1101/710210v1). The experiment was with blindness because FDA already approved the same virus-based delivery method for its cure. But the mechanism is generic - it can turn any cell young again.
 
 ## SENS research brought us 25 years forward in anti-aging
-[SENS](https://www.sens.org/ ) launched this field, initially with the help of $1M a year pledge from Peter Thiel. Now even [crypto wealth is going into it](https://qz.com/1212040/crypto-millionaires-like-vitalik-buterin-are-funding-research-to-reverse-aging-especially-the-sens-research-foundation/.
+[SENS](https://www.sens.org/) launched this field, initially with the help of $1M a year pledge from Peter Thiel. Now even [crypto wealth is going into it](https://qz.com/1212040/crypto-millionaires-like-vitalik-buterin-are-funding-research-to-reverse-aging-especially-the-sens-research-foundation/).
 
 ## Publications
-Life Extension event in early Dec 2020, with recorded presentations by leading researchers in longevity field:
-https://www.youtube.com/channel/UCofPTsvqicfVFYifwB3_XhQ
+See [Life Extension event on Dec 3 2020](https://www.youtube.com/channel/UCofPTsvqicfVFYifwB3_XhQ), with recorded presentations by leading researchers in the longevity field.
 
 ## VCs
 Healthspan extension / Anti-Ageing / Longevity field is projected to become a trillion dollar industry,  and it recently experienced a number of breakthroughs. See emerging specilist investors in this field:
