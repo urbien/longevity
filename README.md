@@ -12,8 +12,6 @@ To cure decseases of aging all that remains to figure out it what instructions (
 
 The right IT platform can accelerate this process by 5 years.
 
-## Background on RNA-based vaccines
-
 ## COVID vaccines tell cells to produce certain protein
 We are all made of proteins. 
 It is a common knowledge that DNA is the source of programming for our body, specifically the instructions to produce proteins. In principle the body manifacturing process consists of just 2 steps:
@@ -52,9 +50,8 @@ Information technology is essential to here to help speed up the research, the 
 1. Trials require auditable transactional structured messaging with participants, both subjects and staff.
 1. Trials require workflow for participants and staff.
 
-## Breakthroughs
-Measure true bio age - this is fundamental for a scientific method to work. Until now we could not measure the effectiveness of diet, fasting, supplements, exercise, hot-cold showers, lower doses of stress, and of course the clinical.
-https://en.wikipedia.org/wiki/Epigenetic_clock
+## Recent Longevity Breakthroughs
+1. [Measuring the true bio age](https://en.wikipedia.org/wiki/Epigenetic_clock) - this is a fundamental discovery for the scientific method to be able to work. Until now we could not measure the effectiveness of any measures that claim to clounter or slow the aging process. We have a multi-billion industry that touts diet, cremes, fasting, supplements, exercise, hot-cold showers, hyperbaric chambers, special type of breathing, etc. etc. But none could be measured, until just a couple of years ago.
 
 1. [Replace 50% of blood plasma with saline solution](https://www.aging-us.com/article/103418/text). This procedure is already approved by FDA for rare immune deceases. 
 
