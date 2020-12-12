@@ -23,19 +23,17 @@ It is unteresting that the cell is dumb and does not know where the RNA has came
 
 This is how viruses make us sick. They use our own mechanism to trick the cell to produce the proteins that we do not need. Virus is just a bubble with the RNA and it is so small that it can sneak into the cell without a problem. Note that many other things can't pass through the cell membrane, and it is a problem of the drug delivery mechanism, which gives Pharma so much headache. Not an issue with the RNA. There is also no issue with the body rejecting the RNA either, and viruses use this to their advantage. It is like taking over the command line from the ground control.
 
->RNA is easily destroyed (by enzymes) before it gets into the right place in the cell. So vaccine developers put RNA in the bubble to protect it until it gets to the right place in the cell, to the cell factories that produce proteins based on RNA instructions (ribosomes). 
+>RNA is easily destroyed (by enzymes) before it gets into the right place in the cell. So vaccine developers have managed to put RNA in the bubble to safely deliver those instructions to the pprotein factories (ribosomes). 
 
-What is interesting is that our cells themselves produce these RNA bubbles and send them out to other cells. These bubbles are called Exosomes and they are excreeted by most of the cells in our body. This way, like in a well organized manufacturer, all production units work together towards one goal, constantly coordinating their activities.
+What is surprising is that our cells themselves produce similar RNA bubbles and send them out to other cells. These bubbles are called Exosomes and they are excreeted by most of the cells in our body. This is the way cells coordinate their activities for the wellbeing of the body.
 
-This is it. COVID-19 vaccines use the same mechnism. 
+Ability to produce instructions, packaged in delivery bubbles (Exosomes) artificially, scaled now for the COVID-19 vaccines, is a huge deal. We will now be able to use it to save ourselves from becoming invalid and senile at the end of our lives. COVID-19 has sped up the time to market for Exosomes by at least a decade.
 
-Ability to produce instructions, packaged in delivery bubbles (Exosomes) artificially and at scale, newfound with COVID-19 vaccines, is a huge deal. This is the way we will save ourselves from becoming idiots and invalids at the end of our lives. COVID-19 just sped up the time to market for Exosomes by a decade, perhaps quarter of a century. 
-
-I know of 2 labs that already breed Exosomes. They take the Exosomes from the specific placenta cells (MSC) that direct other cells in the early stages of life. These Exosomes can be bread and injected into the bloodstream to act as the fountain of youth for our organs. Well, now with COVID vaccines advances, we do not need these placenta cells, we can produce Exosomes 100% artificially. No ethical issues, no human tissues. Easier FDA approval.
+I know of 2 labs that already breed Exosomes in the US. They take the Exosomes from the specific placenta cells (MSC) that direct other cells in the early stages of life. These Exosomes can be multiplied and then injected into the bloodstream to act as the fountain of youth for our organs. Well, now with COVID vaccines advances, we do not need the placenta cells, we can produce Exosomes 100% artificially. No ethical issues, no human tissue, easier FDA approval.
 
 What we do not yet know is what specific Exosomes to produce. We need to study the Exosomes excreeted by MSC and study effects of each.
 
-But once we do, this is the end of disease of aging and perhaps of aging itself.
+But once we do, this is the end of the disease of aging and perhaps of aging itself.
 
 ## What remains to do and how IT can help?
 Information technology is essential to here to help speed up the research, the clinical trials and the FDA approval management process, perhaps by 3-5 years. 
