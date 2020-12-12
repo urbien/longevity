@@ -1,4 +1,4 @@
-# A decade forward into the future to cure aging, thanks to COVID
+# We can cure aging, thanks to COVID
 
 ## Executive Summary 
 COVID virus exhibits a specific protein on its surface, a so called "spike" protein.
