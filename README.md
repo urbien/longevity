@@ -43,7 +43,7 @@ Information technology is essential to here to help speed up the research, the 
 1. This is a highly regulated field. To speed up the process we need to digitize and enforces compliance protocols. 
 1. There is an enormous amount of data that needs Data Governance. 
 1. Healthcare has challenging data privacy laws.
-1. AI is critical accelerator but sourcing data remains a huge challenge, due to privacy issues. If there was a way for AI to process health data, without asking people to give their data away - this could be the key enabler for research,  trials and clinical monitoring applications.
+1. AI is critical accelerator but sourcing data remains a huge challenge, due to privacy issues. If there was a way for AI to process health data, without asking people to give their data away - this could be the key enabler for research,  trials and clinical monitoring applications. See my open source effort for this https://github.com/tradle/cloudpal
 1. Clinical trials are expensive (3 stages cost upwards of $50M). Trial often fails and all starts anew. IT creates automation, which decreases costs.
 1. Trials require identification, screening and monitoring of candidates.
 1. Trials require identification, screening and monitoring of participating organizations and processes.
