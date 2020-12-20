@@ -48,7 +48,9 @@ Information technology is essential to here to help speed up the research, the 
 1. Trials require identification, screening and monitoring of candidates.
 1. Trials require identification, screening and monitoring of participating organizations and processes.
 1. Trials require auditable transactional structured messaging with participants, both subjects and staff.
-1. Trials require workflow for participants and staff.
+1. Trials require workflow for participants and staff. 
+
+Many of the above points my current startup https://github.com/tradle handles for the financial industry, and can apply to health.
 
 ## Recent Longevity Breakthroughs
 1. [Measuring the true bio age](https://en.wikipedia.org/wiki/Epigenetic_clock) - this is a fundamental discovery for the scientific method to be able to work. Until now we could not measure the effectiveness of any measures that claim to clounter or slow the aging process. We have a multi-billion industry that touts diet, cremes, fasting, supplements, exercise, hot-cold showers, hyperbaric chambers, special type of breathing, etc. etc. But none could be measured, until just a couple of years ago.
