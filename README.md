@@ -67,9 +67,11 @@ Many of the above points my current startup https://github.com/tradle handles fo
 
 1. [Epigenetic reprogramming](https://www.nature.com/articles/s41586-020-2975-4). This is the ultimate solution, perhaps. Rsearchers found a way to tell the cells of the [blind mice to regrow](https://www.biorxiv.org/content/10.1101/710210v1). The experiment was with blindness because FDA already approved the same virus-based delivery method for its cure. But the mechanism is generic - it can turn any cell young again.
 
-Path from the research to the clinic is long and arduous. Longevity / anti-aging field does not even have a direct way to clinic, as FDA does not currently accept anti-aging drug applications. So, all longevity interventions must disguise today as an application to a particular desease of aging, although they often apply to a much broader spectrum of ailments. In that sense they are even wider than antiobiotics and antivirals, and are unlike a pill for specific problem, like a headache. 
+A path from research to the clinic is long and arduous. Longevity / anti-aging field does not even have a direct way to clinic, as FDA does not currently accept anti-aging drug applications. So, all longevity interventions must disguise today as an application to a particular desease of aging, although they often apply to a much broader spectrum of ailments. In that sense they are even wider than antiobiotics and antivirals, and are unlike a pill for specific problem, like a headache. 
 
 Meanwhile, while the most wide-range longevity solutions are fighting their way in, the more specific ones ight give us an extra 10-20 year of healthspan. Senolitics, a class of drugs that figth the negative effects of accumulation of senescent cells with aging, can be our temporary savior. Note the first successful senolytics [human clinical trial in 2020](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(19)30641-3/fulltext). Dozens more are now going through the FDA process.
+
+See the list of all [rejuvemation clinical trials in progress](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/). 
 
 ## SENS research brought us 25 years forward in anti-aging
 [SENS](https://www.sens.org/) launched this field, initially with the help of $1M a year pledge from Peter Thiel. Now even [crypto wealth is going into it](https://qz.com/1212040/crypto-millionaires-like-vitalik-buterin-are-funding-research-to-reverse-aging-especially-the-sens-research-foundation/).
