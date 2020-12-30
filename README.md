@@ -55,7 +55,7 @@ Many of the above points my current startup https://github.com/tradle handles fo
 ## Recent Longevity Breakthroughs
 1. [Measuring the true bio age](https://en.wikipedia.org/wiki/Epigenetic_clock) - this is a fundamental discovery for the scientific method to be able to work. Until now we could not measure the effectiveness of any measures that claim to clounter or slow the aging process. We have a multi-billion industry that touts diet, cremes, fasting, supplements, exercise, hot-cold showers, hyperbaric chambers, special type of breathing, etc. etc. But none could be measured, until just a couple of years ago.
 
-1. [Replace 50% of blood plasma with saline solution](https://www.aging-us.com/article/103418/text). This procedure is already approved by the FDA for the patients with rare immune deseases. At the end of 2020 2 biohackers have tried this procedure on themselves without any adverse side effects and [with some interesting results](https://www.lifespan.io/news/biohackers-perform-first-plasma-dilution-experiment-on-humans/).
+1. [Replace 50% of blood plasma with a saline solution](https://www.aging-us.com/article/103418/text). This procedure is already approved by the FDA for the patients with rare immune deseases. At the end of 2020 2 biohackers have tried this procedure on themselves without any adverse side effects and [with some interesting results](https://www.lifespan.io/news/biohackers-perform-first-plasma-dilution-experiment-on-humans/).
 
 1. [Inject young plasma factors](https://www.biorxiv.org/content/10.1101/2020.05.07.082917v1). This topic has been the subject of much hype, but perhaps we will finally see the light at the end of the tunnel.
 
