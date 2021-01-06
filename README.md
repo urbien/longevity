@@ -10,7 +10,7 @@ We also have anecdotal evidence that these instructions can serve as a fountain 
 
 To cure decseases of aging all that remains to figure out it what instructions (RNA segments) are essential in the coctail excreeted by placenta cells. Thanks to COVID, we now have the production capacity to produce RNA segments to vaccinate all earthlings from aging.
 
-The right IT platform can accelerate this process by 5 years.
+The right IT platform can accelerate this process by 5 years. Take a look at [our unique capabilities](https://github.com/urbien/longevity/blob/main/tech-platform.md).
 
 ## COVID vaccines tell cells to produce certain protein
 We are all made of proteins. 
@@ -51,6 +51,7 @@ Information technology is essential to here to help speed up the research, the 
 1. Trials require workflow for participants and staff. 
 
 Many of the above points my current startup https://github.com/tradle handles for the financial industry, and can apply to health.
+See more [our unique capabilities](https://github.com/urbien/longevity/blob/main/tech-platform.md).
 
 ## Recent Longevity Breakthroughs
 1. [Measuring the true bio age](https://en.wikipedia.org/wiki/Epigenetic_clock) - this is a fundamental discovery for the scientific method to be able to work. Until now we could not measure the effectiveness of any measures that claim to clounter or slow the aging process. We have a multi-billion industry that touts diet, cremes, fasting, supplements, exercise, hot-cold showers, hyperbaric chambers, special type of breathing, etc. etc. But none could be measured, until just a couple of years ago.
