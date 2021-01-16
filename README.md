@@ -88,6 +88,10 @@ Healthspan extension / Anti-Ageing / Longevity field is projected to become a tr
 - https://www.methuselahfund.com/
 - https://www.apollo.vc/
 
-# NGOs
+## NGOs
 https://www.geron.org/programs-services/reframing-aging-initiative?start=1
+
+## Path ahead 
+Aside from figuring out mRNA that needs to go into lipid bubbles (nanoparticles), researchers need to find a way to target specific tissues, avoid accumulation of nanoparticles, use different lipid layers to maximize the deliver, etc. This work [is already ongoing](https://www.sciencemag.org/news/2020/12/messenger-rna-gave-us-covid-19-vaccine-will-it-treat-diseases-too). There is plenty of work ahead but the major blocks have been removed. Let's work together on brining the vaccines for diseases of old age to world population!
+
 
