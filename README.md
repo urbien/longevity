@@ -70,7 +70,7 @@ See more [our unique capabilities](https://github.com/urbien/longevity/blob/main
 
 A path from research to the clinic is long and arduous. Longevity / anti-aging field does not even have a direct way to clinic, as FDA does not currently accept anti-aging drug applications. So, all longevity interventions must disguise today as an application to a particular desease of aging, although they often apply to a much broader spectrum of ailments. In that sense they are even wider than antiobiotics and antivirals, and are unlike a pill for specific problem, like a headache. 
 
-Meanwhile, while the most wide-range longevity solutions are fighting their way in, the more specific ones ight give us an extra 10-20 year of healthspan. Senolitics, a class of drugs that figth the negative effects of accumulation of senescent cells with aging, can be our temporary savior. Note the first successful senolytics [human clinical trial in 2020](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(19)30641-3/fulltext). Dozens more are now going through the FDA process.
+Meanwhile, while the most wide-range longevity solutions are fighting their way in, the more specific ones ight give us an extra 10-20 year of healthspan. Senolitics, a class of drugs that figth the negative effects of accumulation of senescent cells with aging, can be our temporary savior. Note the first successful senolytics [human clinical trial in 2020](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(19)30641-3/fulltext). Dozens more are now ongoing, watch a very thorough review of [Mayo Clinic trials](https://youtu.be/0mD-wupqvQE).
 
 See the list of all [rejuvemation clinical trials in progress](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/). 
 
